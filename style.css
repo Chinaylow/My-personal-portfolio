@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.info{
+    background-color: rgb(20, 136, 72);
+}
+div ul{
+
+    width: 600px;
+    margin: 0 auto;
+
+}
+div ul li{
+    display: inline-block;
+    padding: 10px 40px;
+    text-align: center;
+}
+div ul li a{
+    text-decoration: none;
+    color: white;
+}
+.bay{
+    padding-right: 90px;
+    background-color: white;
+    
+    color: green;
+
+}
+.image{
+    background-image: url(bg.png);
+    width: cover;
+    height: 400px;
+    margin-top: 0;
+    padding-top: 0%;
+    background-color: rgb(50, 56, 53);
+    background-blend-mode: overlay;
+    text-align: center;
+}
+.header{
+    color: white;
+    font-size: 45px;
+    padding-top: 100px;
+}
+.firstp{
+    color: mediumseagreen;
+    padding-top: 10px;
+    font-size: 20px;
+}
+.build{
+    background-color: rgb(17, 43, 44);
+    color: white;
+    width: cover;
+    height: 400px;
+    text-align: center;
+}
+.header2{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-bottom: 15px;
+}
+.secondp{
+    color: rgb(197, 197, 197);
+}
+.list{
+    padding-top: 40px;
+}
+footer{
+    
+    
+}
+span{
+   font-size: 20px;
+    display: inline-block;
+    width: 300px;
+    margin: 20px 40px;
+    
+}
+.copy{
+    position:absolute;
+    right: 200px;
+}
+.right{
+    position: absolute;
+    left: 200px;
+}
